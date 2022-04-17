@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(90,44): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(91,44): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(122,44): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(123,44): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(159,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(170,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(191,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(202,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(119): warning C4715: 'MergeSort': not all control paths return a value
+C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\RetailStore\Source.cpp(151): warning C4715: 'MergeSort': not all control paths return a value
+  RetailStore.vcxproj -> C:\Users\Sam\source\repos\RetailProgram-main\RetailProgram-main\RetailStore\x64\Debug\RetailStore.exe
